@@ -9,5 +9,5 @@ pandas==2.0
 seaborn==0.9.0
 h5py==2.10.0
 click==8
-protobuf==3.20
+pip==23.3.1
 
