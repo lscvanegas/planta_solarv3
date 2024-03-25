@@ -7,7 +7,7 @@ xlrd==2.0.1
 Keras==2.7
 pandas==2.0
 seaborn==0.11.2
-h5py==2.10.0
+h5py==3.10.0
 click==8.0.3
 
 
