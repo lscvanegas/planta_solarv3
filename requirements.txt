@@ -1,4 +1,4 @@
-matplotlib==3.2.1
+matplotlib==3.8.3
 streamlit==0.71.0
 tensorflow==2.16.1
 numpy==1.25.0
