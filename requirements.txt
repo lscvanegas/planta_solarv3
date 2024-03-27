@@ -37,9 +37,4 @@ rich==13.7.1
 six==1.16.0
 tenacity==8.2.3
 tensorflow==2.14.0
-termcolor==2.4.0
-typing_extensions==4.10.0
-tzdata==2023.4
-urllib3==2.2.1
-Werkzeug==3.0.1
-wrapt==1.16.0
+
