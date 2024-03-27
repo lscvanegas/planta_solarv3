@@ -20,7 +20,6 @@ opt-einsum==3.3.0
 optree==0.10.0
 packaging==23.2
 pandas==2.1.4
-pillow==10.2.0
 plotly==5.18.0
 protobuf==4.25.3
 pygame==2.4.0
