@@ -11,7 +11,7 @@ google-pasta==0.2.0
 grpcio==1.62.1
 h5py==3.10.0
 idna==3.6
-keras==3.1.1
+keras==3.0.0
 kiwisolver==1.4.5
 libclang==18.1.1
 Markdown==3.6
@@ -36,5 +36,5 @@ requests==2.31.0
 rich==13.7.1
 six==1.16.0
 tenacity==8.2.3
-tensorflow==2.14.0
+tensorflow==2.13.0
 
